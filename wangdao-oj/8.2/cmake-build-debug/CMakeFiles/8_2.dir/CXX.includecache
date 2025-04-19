@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/develop/develop/development code/Clion/postgraduate/wangdao-oj/8.2/main.cpp
+stdio.h
+-
+stdlib.h
+-
+
